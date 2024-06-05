@@ -1,0 +1,2 @@
+To allow the code to work properly put in the password in the send_email.php file under Christ email id 
+Also  turn on "Less Secure App Acess" ON in Christ id gamil to allow Zapier(automation tool) to extract data from email received to an Excel sheet (book.xsxl) in Christ id Drive
