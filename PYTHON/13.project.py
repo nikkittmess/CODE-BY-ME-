@@ -1,0 +1,6 @@
+#13 program(nikkitt's)
+a=input("enter your first name")
+b=input("enter your second name")
+print("printing your first name 3 times",a*3)
+print("printing your secong name 6 times",b*6)
+print("available username=",a+b)
